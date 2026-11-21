@@ -1,0 +1,10 @@
+Contient des informations des horaires prévus d'Île-de-France Mobilités
+(https://data.iledefrance-mobilites.fr/explore/dataset/offre-horaires-tc-gtfs-idfm/),
+mises à disposition aux conditions de la « Licence Mobilités » :
+https://cloud.fabmob.io/s/eYWWJBdM3fQiFNm
+
+Communes des arrêts : référentiel des arrêts © Île-de-France Mobilités
+(https://data.iledefrance-mobilites.fr/explore/dataset/arrets/), Licence Ouverte 2.0 : https://www.etalab.gouv.fr/licence-ouverte-open-licence/
+
+Base de données dérivée (catalogue et paquets de lignes) produite par l'usine d'AppliTransport :
+https://github.com/applitransport/applitransport
